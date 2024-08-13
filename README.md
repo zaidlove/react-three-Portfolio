@@ -1,7 +1,7 @@
 # 📝 About the project
 My website integrates cutting-edge technologies, including Three.js for 3D graphics rendering and animation, React Three Fiber for seamless React integration, and Tailwind CSS for responsive styling. Framer Motion enhances user experience with fluid animations and transitions.
-Click on
-this link to access the project: https://whateverudra.vercel.app
+<!-- Click on
+this link to access the project: https://whateverudra.vercel.app -->
 <br></br>
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
