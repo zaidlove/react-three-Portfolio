@@ -1,6 +1,5 @@
 import {
     mobile,
-    // backend,
     creator,
     web,
     intern,
@@ -8,7 +7,6 @@ import {
     typescript,
     html,
     css,
-    aman,
     reactjs,
     redux,
     tailwind,
@@ -17,15 +15,10 @@ import {
     git,
     figma,
     docker,
-    // meta,
-    // starbucks,
-    // tesla,
-    // shopify,
     carrent,
     jobit,
     tripguide,
     threejs,
-    // gdsc,
   } from "../assets";
   
   export const navLinks = [
@@ -52,10 +45,6 @@ import {
       title: "ReactJS Developer",
       icon: mobile,
     },
-    // {
-    //   title: "Java Programmer",
-    //   icon: backend,
-    // },
     {
       title: "UI/UX Designer",
       icon: creator,
@@ -187,7 +176,6 @@ import {
       name: "Aman Kesarwani",
       designation: "Founder",
       company: "Lets Grow More",
-      image: aman,
     },
     {
       testimonial:
