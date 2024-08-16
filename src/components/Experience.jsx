@@ -20,7 +20,7 @@ const ExperienceCard = ({ experience }) => (
     </div>
     <ul className="mt-5 ml-5 list-disc space-y-2">
     {experience.points.map((point,index)=>(
-      <li key={`experience-point-$(index)`} className="text-white-100 pl-1 text-[14px] tracking-wider">
+      <li key={index} className="text-white-100 pl-1 text-[14px] tracking-wider">
         {point}
       </li>
     ))}
@@ -38,7 +38,7 @@ const Experience = () => {
     </motion.div>
     <div className="mt-20 flex flex-col">
       <VerticalTimeline>
-        {experiences.map((experience,index) => (
+        {experiences.map((experience, index) => (
         <ExperienceCard key={index} experience={experience} />
         ))}
       </VerticalTimeline>
